@@ -1,6 +1,6 @@
 ### Hi there 👋
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif" width="400" height="400"/>
+  <img src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif" width="200" height="200"/>
 </div>
 
 ### About Me :
@@ -11,7 +11,7 @@
 - 📚 I believe in the power of lifelong learning and strive to stay updated with the latest research and technologies.
 
 ### Languages and Tools :
-<div align="center">
+<div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="NumPy" alt="NumPy" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="50" height="50"/>
@@ -24,7 +24,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original-wordmark.svg" title="PyTorch" alt="PyTorch" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/django/django-plain.svg" title="Django" alt="Django" width="50" height="50"/>
   <img src="https://assets.stickpng.com/images/62e14245eb4d9a9dc054c181.png" title="Tableau" alt="Tableau" width="50" height="50"/>
-</div>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" title="Jupyter" alt="Jupyter" width="50" height="50"/>
 </div>
 
