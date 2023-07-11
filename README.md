@@ -25,5 +25,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-original.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/streamlit/streamlit-original-wordmark.svg" title="Streamlit" alt="Streamlit" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original-wordmark.svg" title="PyTorch" alt="PyTorch" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/django/django-plain.svg" title="PyTorch" alt="PyTorch" width="40" height="40"/>&nbsp;
 </div>
 
