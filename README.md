@@ -1,7 +1,8 @@
 ### Hi there 👋
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif" width="600" height="300"/>
 </div>
+### :woman_technologist: About Me :
 <!--
 **Magynasyz/Magynasyz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
