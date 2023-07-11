@@ -5,17 +5,15 @@
 
 ### About Me :
 - 🎓 I am a student with a strong interest in data science and machine learning.
-- 🌱 I am always eager to expand my knowledge and explore the latest advancements in these fields.
-- 💡  I enjoy tackling complex problems and finding innovative solutions using data-driven approaches.
+- 🌱 Always eager to expand my knowledge and explore the latest advancements in these fields.
 - 💻 I have experience working with Python, R, and SQL, and I am continuously learning and honing my skills.
-- 📚 I believe in the power of lifelong learning and strive to stay updated with the latest research and technologies.
+- 📚 Believe in the power of lifelong learning and strive to stay updated with the latest research and technologies.
 
 ### Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="NumPy" alt="NumPy" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="50" height="50"/>
-  <img src="hhttps://d33wubrfki0l68.cloudfront.net/e33fd6f372aa5d51e7b0de4bd763bd983251881e/4b0f4/blog/customising-matplotlib/matplot_title_logo.png" title="Matplotlib" alt="Matplotlib" width="100" height="50"/>
   <img src="https://repository-images.githubusercontent.com/4704710/fd110d80-63d1-11eb-9ae4-de7c23c9dedc" title="Seaborn" alt="Seaborn" width="80" height="50"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" title="scikit-learn" alt="scikit-learn" width="70" height="50"/>
   <img src="https://www.fullstackpython.com/img/logos/scipy.png" title="SciPy" alt="SciPy" width="80" height="50"/>
