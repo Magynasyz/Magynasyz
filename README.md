@@ -1,8 +1,4 @@
 ### Hi there 👋
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif" width="200" height="200"/>
-</div>
-
 ### About Me :
 - 🎓 I am a student with a strong interest in data science and machine learning.
 - 🌱 Always eager to expand my knowledge and explore the latest advancements in these fields.
